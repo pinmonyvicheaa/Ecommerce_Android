@@ -67,11 +67,11 @@ fun HomeScreen(
             HeaderSection()
         }
 
-        // "Pillows" Section (for category id = 1)
+        // " Bunny Pillows" Section (for category id = 1)
         item {
             Spacer(modifier = modifier.height(16.dp))
             Text(
-                "Pillows",
+                "Bunny Pillows",
                 style = MaterialTheme.typography.headlineMedium,
                 modifier = Modifier.padding(horizontal = 16.dp)
             )
