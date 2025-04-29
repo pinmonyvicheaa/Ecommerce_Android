@@ -86,11 +86,11 @@ fun HomeScreen(
             )
         }
 
-        // "Bolster Pillows" Section (for category id = 2)
+        // "Master Pillows" Section (for category id = 2)
         item {
             Spacer(modifier = Modifier.height(16.dp))
             Text(
-                "Bolster Pillows",
+                "Master Pillows",
                 style = MaterialTheme.typography.headlineMedium,
                 modifier = Modifier.padding(horizontal = 16.dp)
             )
