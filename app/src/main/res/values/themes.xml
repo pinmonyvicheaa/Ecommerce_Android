@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <style name="Theme.MySplashScreen." parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/light_pink</item>
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_launcher_foreground</item>
+        <item name="postSplashScreenTheme">@style/Theme.EcommerceApp</item>
+
+        <!-- Prevents icon from being forced into a circle -->
+
+    </style>
+    
+    <style name="Theme.EcommerceApp" parent="android:Theme.Material.Light.NoActionBar" />
+</resources>

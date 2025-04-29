@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">Ecommerce App</string>
+    <string name="welcome">Welcome Back!</string>
+    <string name="username_email">Username or Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    
+    <string name="register">Create an account</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="agree_register">By clicking the Register button, you agree to the public offer</string>
+    <string name="signin">Create Account</string>
+
+    <string name="forget_password">Forgot Password?</string>
+    <string name="email">Enter your email address</string>
+    <string name="submit">Submit</string>
+    
+    <string name="choose_product_title">Choose Products</string>
+    <string name="choose_product_des">Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.</string>
+    <string name="make_payment_title">Make Payment</string>
+    <string name="make_payment_des">Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.</string>
+    <string name="get_order_title">Get Your Order</string>
+    <string name="get_order_des">Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit.</string>
+
+    <string name="home">Home</string>
+    <string name="search">SEARCH</string>
+    <string name="notification">NOTIFICATION</string>
+    <string name="profile">PROFILE</string>
+    <string name="back_button">Back</string>
+    <string name="shopping_cart">Shopping Cart</string>
+
+    <string name="no_notification">You don\'t have any notification</string>
+</resources>

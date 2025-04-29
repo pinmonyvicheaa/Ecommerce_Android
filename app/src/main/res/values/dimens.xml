@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <dimen name="welcome_size">50sp</dimen>
+    <dimen name="welcom_height">52sp</dimen>
+
+    <dimen name="text_button_size">16sp</dimen>
+    <dimen name="image_size">300dp</dimen>
+    <dimen name="title_size">26sp</dimen>
+
+    <dimen name="padding_column">12dp</dimen>
+</resources>
